@@ -4,6 +4,7 @@
     Some more code
     more code
     1
+    2
   </div>
 </template>
 
