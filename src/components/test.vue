@@ -1,5 +1,8 @@
 <template>
-  <div>Added code</div>
+  <div>
+    Added code
+    Some more code
+  </div>
 </template>
 
 <script>
