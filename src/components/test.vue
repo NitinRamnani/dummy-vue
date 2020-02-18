@@ -2,6 +2,7 @@
   <div>
     Added code
     Some more code
+    more code
   </div>
 </template>
 
