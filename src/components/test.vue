@@ -1,4 +1,9 @@
-<template></template>
+<template>
+  <div>
+    Added code
+    Some more code
+  </div>
+</template>
 
 <script>
 export default {};
