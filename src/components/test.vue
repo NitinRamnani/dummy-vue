@@ -4,6 +4,7 @@
     <div>5</div>
     <div>4</div>
     <div>b3</div>
+    <div>b4</div>
   </div>
 </template>
 
